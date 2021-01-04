@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vegeDoggy.github.io</id>
     <title>vegeDoggy的小屋</title>
-    <updated>2021-01-04T12:26:14.417Z</updated>
+    <updated>2021-01-04T16:44:21.189Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://vegeDoggy.github.io"/>
     <link rel="self" href="https://vegeDoggy.github.io/atom.xml"/>
@@ -10,6 +10,32 @@
     <logo>https://vegeDoggy.github.io/images/avatar.png</logo>
     <icon>https://vegeDoggy.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, vegeDoggy的小屋</rights>
+    <entry>
+        <title type="html"><![CDATA[2021, 新的开始]]></title>
+        <id>https://vegeDoggy.github.io/post/2021-xin-de-kai-shi/</id>
+        <link href="https://vegeDoggy.github.io/post/2021-xin-de-kai-shi/">
+        </link>
+        <updated>2021-01-03T20:26:39.000Z</updated>
+        <content type="html"><![CDATA[<p>以此文回顾我的2020, 展望我的2021.</p>
+<h2 id="停下来思考">停下来思考</h2>
+<h3 id="疫情成为自问契机">疫情成为自问契机</h3>
+<p>2019年末, 我选择来美国读计算机研究生, 整整一年的疫情, 让身在美国求学的我恰好停下脚步开始思考自己的未来. 若是按照原本的规划, 我会先找到实习,  然后再转正or找到全职工作, 成为一个美帝程序员.</p>
+<p>赚的多, 干活少, 成为美帝程序员多好. 不仅仅是我周围的亲戚朋友, 还有整个网络、所有社会阶层似乎都达成了一个共识, 那就是去美国留学当程序员是普通家庭的最优选择,.</p>
+<p>我也是这么想的. 直到被疫情逼疯, 在家刷题刷到暗无天日的我, 突然有一天发现, 我从未问过我自己, 是不是想在这里做一个程序员.</p>
+<h3 id=""></h3>
+<p>理科生自然有理科生的严谨, 把选择工作当作一个产品分析<br>
+pors:<br>
+cons:</p>
+<p>分析了优势和缺点, 我却发现我一直都在以外人的视角看待找工作这件事, 我却从来没有想过自己喜不喜欢.</p>
+<h3 id="我不喜欢">我不喜欢</h3>
+<p>我喜欢吗? 似乎不讨厌. 但是这一段疫情在家时候的,</p>
+<h3 id="我喜欢什么">我喜欢什么</h3>
+<h2 id="寻找未来的方向">寻找未来的方向</h2>
+<h3 id="我喜欢么">我喜欢么?</h3>
+<h3 id="我擅长么">我擅长么?</h3>
+<h3 id="我可以赚到钱么">我可以赚到钱么?</h3>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[乐乐是小猪]]></title>
         <id>https://vegeDoggy.github.io/post/test/</id>
