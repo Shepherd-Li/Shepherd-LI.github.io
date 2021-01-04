@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vegeDoggy.github.io</id>
     <title>vegeDoggy的小屋</title>
-    <updated>2021-01-04T23:26:50.004Z</updated>
+    <updated>2021-01-04T23:44:21.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://vegeDoggy.github.io"/>
     <link rel="self" href="https://vegeDoggy.github.io/atom.xml"/>
-    <subtitle>我爱乐乐耶</subtitle>
+    <subtitle>记录个人成长的地方</subtitle>
     <logo>https://vegeDoggy.github.io/images/avatar.png</logo>
     <icon>https://vegeDoggy.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, vegeDoggy的小屋</rights>
@@ -15,14 +15,20 @@
         <id>https://vegeDoggy.github.io/post/yu-jun-lesslesschan-pin-fang-fa-lun-greatergreater-du-shu-bi-ji/</id>
         <link href="https://vegeDoggy.github.io/post/yu-jun-lesslesschan-pin-fang-fa-lun-greatergreater-du-shu-bi-ji/">
         </link>
-        <updated>2021-01-01T12:54:45.000Z</updated>
+        <updated>2020-12-31T20:54:45.000Z</updated>
         <content type="html"><![CDATA[<h1 id="第4章-什么是产品经理">第4章 什么是产品经理</h1>
 <h2 id="41-历史上的产品经理-42-不一样的产品经理">4.1 历史上的产品经理 4.2 不一样的产品经理</h2>
-<p>思考</p>
+<h3 id="输入-读书与总结">输入: 读书与总结</h3>
 <ol>
-<li>产品经理的定义与时代, 行业的不同而有所不同, 但不同点主要在经理职能上, 核心点产品从未改变.</li>
+<li>产品经理的定义与时代, 行业的不同而有所不同, 但不同点主要在经理职能上, 核心点(即产品)从未改变.</li>
 <li>在互联网时代, 产品经理的核心依旧不变, 但特点是, 因交叉职能趋向<strong>综合化</strong>, 产品生命<strong>全周期化</strong>.</li>
 <li>互联网特点(俞军老师这里的罗列在逻辑上有一个递进关系): 信息成本低 -&gt; 产品快速迭代(这其实催生软件工程中敏捷开发的需求) -&gt; 满足用户的极致体验</li>
+</ol>
+<h3 id="输出-问题与思考">输出: 问题与思考</h3>
+<ol>
+<li>怎么理解产品经理? 什么是产品经理的本质? 产品经理的工作内容, 经济学属性, 社会学属性.</li>
+<li>怎么理解互联网? 什么是互联网的本质? 互联网pros &amp; cons, 该怎么利用pros, 避免cons</li>
+<li>结合1,2, 在互联网上下文定义产品经理, 总结互联网产品经理的本质.</li>
 </ol>
 ]]></content>
     </entry>
