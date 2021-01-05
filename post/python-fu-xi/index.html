@@ -4,37 +4,49 @@
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
-<title>2021, 新的开始 - vegeDoggy的小屋</title>
+<title>Python 复习 - vegeDoggy的小屋</title>
 <link rel="shortcut icon" href="https://vegeDoggy.github.io/favicon.ico">
 <link href="https://cdn.jsdelivr.net/npm/remixicon@2.2.0/fonts/remixicon.css" rel="stylesheet">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.7.2/animate.min.css">
 <link rel="stylesheet" href="https://vegeDoggy.github.io/media/css/tailwind.css">
 <link rel="stylesheet" href="https://vegeDoggy.github.io/styles/main.css">
-<link rel="alternate" type="application/atom+xml" title="2021, 新的开始 - vegeDoggy的小屋 - Atom Feed" href="https://vegeDoggy.github.io/atom.xml">
+<link rel="alternate" type="application/atom+xml" title="Python 复习 - vegeDoggy的小屋 - Atom Feed" href="https://vegeDoggy.github.io/atom.xml">
 
     
 
-  <meta name="description" content="以此文回顾我的2020, 展望我的2021.
-停下来思考
-疫情成为自问契机
-2019年末, 我选择来美国读计算机研究生, 整整一年的疫情, 让身在美国求学的我恰好停下脚步开始思考自己的未来. 若是按照原本的规划, 我会先找到实习,  然后再..." />
-  <meta property="og:title" content="2021, 新的开始 - vegeDoggy的小屋">
-  <meta property="og:description" content="以此文回顾我的2020, 展望我的2021.
-停下来思考
-疫情成为自问契机
-2019年末, 我选择来美国读计算机研究生, 整整一年的疫情, 让身在美国求学的我恰好停下脚步开始思考自己的未来. 若是按照原本的规划, 我会先找到实习,  然后再..." />
+  <meta name="description" content="基本数据结构
+顺序容器 list 和 tuple
+相同点:
+
+两者都是顺序容器
+不同点:
+list是动态的,  元素可变, 大小可变.空间分配上list会维护额外的metadata实现动态分配.
+tuple是静态的.  一经创建, 元素大小..." />
+  <meta property="og:title" content="Python 复习 - vegeDoggy的小屋">
+  <meta property="og:description" content="基本数据结构
+顺序容器 list 和 tuple
+相同点:
+
+两者都是顺序容器
+不同点:
+list是动态的,  元素可变, 大小可变.空间分配上list会维护额外的metadata实现动态分配.
+tuple是静态的.  一经创建, 元素大小..." />
   <meta property="og:type" content="articles">
-  <meta property="og:url" content="https://vegeDoggy.github.io/post/2021-xin-de-kai-shi/" />
+  <meta property="og:url" content="https://vegeDoggy.github.io/post/python-fu-xi/" />
   <meta property="og:image" content="https://vegeDoggy.github.io/images/avatar.png">
   <meta property="og:image:height" content="630">
   <meta property="og:image:width" content="1200">
-  <meta name="twitter:title" content="2021, 新的开始 - vegeDoggy的小屋">
-  <meta name="twitter:description" content="以此文回顾我的2020, 展望我的2021.
-停下来思考
-疫情成为自问契机
-2019年末, 我选择来美国读计算机研究生, 整整一年的疫情, 让身在美国求学的我恰好停下脚步开始思考自己的未来. 若是按照原本的规划, 我会先找到实习,  然后再...">
+  <meta name="twitter:title" content="Python 复习 - vegeDoggy的小屋">
+  <meta name="twitter:description" content="基本数据结构
+顺序容器 list 和 tuple
+相同点:
+
+两者都是顺序容器
+不同点:
+list是动态的,  元素可变, 大小可变.空间分配上list会维护额外的metadata实现动态分配.
+tuple是静态的.  一经创建, 元素大小...">
   <meta name="twitter:card" content="summary_large_image">
-  <link rel="canonical" href="https://vegeDoggy.github.io/post/2021-xin-de-kai-shi/">
+  <link rel="canonical" href="https://vegeDoggy.github.io/post/python-fu-xi/">
 
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/default-skin/default-skin.css">
@@ -56,32 +68,55 @@
     <div class="max-w-4xl w-full mx-auto">
       <div class="shadow-box bg-white dark:bg-gray-600 rounded-lg pt-32 md:pt-64 px-4 md:px-8 pb-8 animated fadeIn mb-8">
         <h1 class="text-5xl font-semibold leading-normal pb-8 mb-8 border-b-8 border-gray-700">
-          2021, 新的开始
+          Python 复习
         </h1>
         
         <div class="mb-8 flex flex-wrap">
-          <div class="text-gray-400 text-sm mr-4">2020-12-31 · 2 min read</div>
+          <div class="text-gray-400 text-sm mr-4">2021-01-02 · 1 min read</div>
+          
+            <a href="https://vegeDoggy.github.io/tag/aIYCrJVE6/" class="text-gray-700 text-sm border-b-2 border-dotted border-gray-200 hover:border-gray-600 transition-all duration-100 inline-flex mr-2">
+              <i class="ri-hashtag"></i>
+              编程语言
+            </a>
+          
+            <a href="https://vegeDoggy.github.io/tag/Q9RKb9qGu/" class="text-gray-700 text-sm border-b-2 border-dotted border-gray-200 hover:border-gray-600 transition-all duration-100 inline-flex mr-2">
+              <i class="ri-hashtag"></i>
+              Python
+            </a>
           
         </div>
         <div class="markdown mb-8" v-pre>
-          <p>以此文回顾我的2020, 展望我的2021.</p>
-<h1 id="停下来思考">停下来思考</h1>
-<h3 id="疫情成为自问契机">疫情成为自问契机</h3>
-<p>2019年末, 我选择来美国读计算机研究生, 整整一年的疫情, 让身在美国求学的我恰好停下脚步开始思考自己的未来. 若是按照原本的规划, 我会先找到实习,  然后再转正or找到全职工作, 成为一个美帝程序员.</p>
-<p>赚的多, 干活少, 成为美帝程序员多好. 不仅仅是我周围的亲戚朋友, 还有整个网络、所有社会阶层似乎都达成了一个共识, 那就是去美国留学当程序员是普通家庭的最优选择,.</p>
-<p>我也是这么想的. 直到被疫情逼疯, 在家刷题刷到暗无天日的我, 突然有一天发现, 我从未问过我自己, 是不是想在这里做一个程序员.</p>
-<h3 id=""></h3>
-<p>理科生自然有理科生的严谨, 把选择工作当作一个产品分析<br>
-pors:<br>
-cons:</p>
-<p>分析了优势和缺点, 我却发现我一直都在以外人的视角看待找工作这件事, 我却从来没有想过自己喜不喜欢.</p>
-<h3 id="我不喜欢">我不喜欢</h3>
-<p>我喜欢吗? 似乎不讨厌. 但是这一段疫情在家时候的,</p>
-<h3 id="我喜欢什么">我喜欢什么</h3>
-<h1 id="寻找未来的方向">寻找未来的方向</h1>
-<h3 id="我喜欢么">我喜欢么?</h3>
-<h3 id="我擅长么">我擅长么?</h3>
-<h3 id="我可以赚到钱么">我可以赚到钱么?</h3>
+          <h1 id="基本数据结构">基本数据结构</h1>
+<h2 id="顺序容器-list-和-tuple">顺序容器 list 和 tuple</h2>
+<p>相同点:</p>
+<ul>
+<li>两者都是顺序容器<br>
+不同点:</li>
+<li>list是动态的,  元素可变, 大小可变.空间分配上list会维护额外的metadata实现动态分配.</li>
+<li>tuple是静态的.  一经创建, 元素大小都不可变.</li>
+</ul>
+<p>这也导致了, list和tuple有着自己更明确的使用场景, 比如list适合增删查改, tuple适合做数据缓存(resource caching). 虽然二者在索引操作上时间开销差别不大, 主要在初始化上时间开销差异较大.</p>
+<pre><code class="language-python">   # list
+   # 初始化
+   l = [1, 2, 'Hello', 'World', struct(自定义)]
+
+   # 查 支持负索引; 改 基于索引查找
+   l[-2]   # Hello
+   l[0]     # 索引从0开始
+
+   # 增
+   l.append(30)
+   l.insert(2, 'potato')
+
+   l_1 = [0, 1, 2, 3]
+   l_1.extend(l)
+   
+   # 删
+   del l[0]
+   l.pop(0)
+   l.remove('Hello')
+   l.clear()
+</code></pre>
 
         </div>
         <!-- Share to Twitter, Weibo, Telegram -->
@@ -123,21 +158,9 @@ cons:</p>
       </div>
       <div class="post-toc-container">
         <ul class="markdownIt-TOC">
-<li><a href="#%E5%81%9C%E4%B8%8B%E6%9D%A5%E6%80%9D%E8%80%83">停下来思考</a><br>
-*
+<li><a href="#%E5%9F%BA%E6%9C%AC%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84">基本数据结构</a>
 <ul>
-<li><a href="#%E7%96%AB%E6%83%85%E6%88%90%E4%B8%BA%E8%87%AA%E9%97%AE%E5%A5%91%E6%9C%BA">疫情成为自问契机</a></li>
-<li></li>
-<li><a href="#%E6%88%91%E4%B8%8D%E5%96%9C%E6%AC%A2">我不喜欢</a></li>
-<li><a href="#%E6%88%91%E5%96%9C%E6%AC%A2%E4%BB%80%E4%B9%88">我喜欢什么</a></li>
-</ul>
-</li>
-<li><a href="#%E5%AF%BB%E6%89%BE%E6%9C%AA%E6%9D%A5%E7%9A%84%E6%96%B9%E5%90%91">寻找未来的方向</a><br>
-*
-<ul>
-<li><a href="#%E6%88%91%E5%96%9C%E6%AC%A2%E4%B9%88">我喜欢么?</a></li>
-<li><a href="#%E6%88%91%E6%93%85%E9%95%BF%E4%B9%88">我擅长么?</a></li>
-<li><a href="#%E6%88%91%E5%8F%AF%E4%BB%A5%E8%B5%9A%E5%88%B0%E9%92%B1%E4%B9%88">我可以赚到钱么?</a></li>
+<li><a href="#%E9%A1%BA%E5%BA%8F%E5%AE%B9%E5%99%A8-list-%E5%92%8C-tuple">顺序容器 list 和 tuple</a></li>
 </ul>
 </li>
 </ul>
