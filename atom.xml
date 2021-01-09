@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vegeDoggy.github.io</id>
     <title>vegeDoggy的小屋</title>
-    <updated>2021-01-09T01:35:44.844Z</updated>
+    <updated>2021-01-09T01:49:16.312Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://vegeDoggy.github.io"/>
     <link rel="self" href="https://vegeDoggy.github.io/atom.xml"/>
@@ -15,7 +15,7 @@
         <id>https://vegeDoggy.github.io/post/product-management-101/</id>
         <link href="https://vegeDoggy.github.io/post/product-management-101/">
         </link>
-        <updated>2021-01-05T09:39:11.000Z</updated>
+        <updated>2021-01-04T17:39:11.000Z</updated>
         <content type="html"><![CDATA[<h1 id="1-introduction">1. Introduction</h1>
 <h2 id="11-概述">1.1 概述</h2>
 <h3 id="111-产品经理的目标whatwhy">1.1.1 产品经理的目标(what&amp;why)</h3>
@@ -43,14 +43,14 @@
 <h2 id="21-市场分析">2.1 市场分析</h2>
 <h3 id="211-市场分析与市场细分的重要性why">2.1.1 市场分析与市场细分的重要性(why)</h3>
 <h4 id="whats-市场细分">what‘s 市场细分</h4>
-<p>需求导向的市场细分(needs-based segmentation): 将整个市场细分为拥有相似需求的市场部分</p>
+<p>(需求导向的) 市场细分(needs-based segmentation): 将整个市场细分为拥有相似需求的市场部分</p>
 <h4 id="why-市场细分">why 市场细分</h4>
 <ul>
 <li>evaluate, compare and select market segments to enter</li>
 <li>target <strong>目标用户</strong> 从而:
 <ul>
-<li>设计产品专门满足目标用户的<strong>特定需求</strong></li>
-<li>给予市场营销团队一个<strong>运营焦点</strong></li>
+<li>设计产品专门满足目标用户的<em>特定需求</em></li>
+<li>给予市场营销团队一个<em>运营焦点</em></li>
 </ul>
 </li>
 </ul>
@@ -80,6 +80,13 @@
 <li>市场的主要趋势和未来趋势</li>
 </ul>
 <figure data-type="image" tabindex="3"><img src="https://vegeDoggy.github.io/post-images/1610155582743.png" alt="" loading="lazy"></figure>
+<h5 id="size-your-segments">size your segments</h5>
+<ul>
+<li>尽可能的寻找数据</li>
+<li>graph the data</li>
+</ul>
+<p><img src="https://vegeDoggy.github.io/post-images/1610156908732.png" alt="2.1.1-1" loading="lazy"><br>
+<img src="https://vegeDoggy.github.io/post-images/1610156915506.png" alt="2.1.1-2" loading="lazy"></p>
 <h3 id="212">2.1.2</h3>
 ]]></content>
     </entry>
