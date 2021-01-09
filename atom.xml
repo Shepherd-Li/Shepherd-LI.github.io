@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vegeDoggy.github.io</id>
     <title>vegeDoggy的小屋</title>
-    <updated>2021-01-09T00:41:26.770Z</updated>
+    <updated>2021-01-09T01:35:44.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://vegeDoggy.github.io"/>
     <link rel="self" href="https://vegeDoggy.github.io/atom.xml"/>
@@ -15,13 +15,13 @@
         <id>https://vegeDoggy.github.io/post/product-management-101/</id>
         <link href="https://vegeDoggy.github.io/post/product-management-101/">
         </link>
-        <updated>2021-01-06T01:39:11.000Z</updated>
+        <updated>2021-01-05T09:39:11.000Z</updated>
         <content type="html"><![CDATA[<h1 id="1-introduction">1. Introduction</h1>
 <h2 id="11-概述">1.1 概述</h2>
 <h3 id="111-产品经理的目标whatwhy">1.1.1 产品经理的目标(what&amp;why)</h3>
 <p>产品经理的工作是为客户提供, 难以复制(护城河)的提高收益(利润)的方法</p>
-<h3 id="12-产品经理的工作内容how">1.2 产品经理的工作内容(how)</h3>
-<figure data-type="image" tabindex="1"><img src="https://vegeDoggy.github.io/post-images/1610148917778.png" alt="1.2.1" loading="lazy"></figure>
+<h3 id="112-产品经理的工作内容how">1.1.2 产品经理的工作内容(how)</h3>
+<figure data-type="image" tabindex="1"><img src="https://vegeDoggy.github.io/post-images/1610148917778.png" alt="1.1.2-1" loading="lazy"></figure>
 <ul>
 <li>市场信息</li>
 <li>战略制定</li>
@@ -29,7 +29,7 @@
 <li>生命周期管理(产品营销)</li>
 </ul>
 <p>每部分的工作内容都不是单打独斗, 而是协作, 市场信息部分与市场团队协作, 战略制定与企业战略执行协作, 开发与技术团队协作, 生命周期管理与市场营销运营协作</p>
-<figure data-type="image" tabindex="2"><img src="https://vegeDoggy.github.io/post-images/1610149449757.png" alt="1.2.2" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://vegeDoggy.github.io/post-images/1610149449757.png" alt="1.1.2-2" loading="lazy"></figure>
 <h2 id="12-产品经理的战略角色">1.2 产品经理的战略角色</h2>
 <p>产品经理想要发挥作用的重点是, 在战略与战术上保持平衡, 具体体现在之前的1.2.2图上, 就是说产品经理的工作虽然与其他团队协作, 但是仍然要有边界感</p>
 <p>协作 + 边界感 = 平衡</p>
@@ -42,7 +42,44 @@
 </ul>
 <h2 id="21-市场分析">2.1 市场分析</h2>
 <h3 id="211-市场分析与市场细分的重要性why">2.1.1 市场分析与市场细分的重要性(why)</h3>
-<p>需求导向的市场细分(needs-based segmentation): 使得整个市场细分为, 拥有相似需求的</p>
+<h4 id="whats-市场细分">what‘s 市场细分</h4>
+<p>需求导向的市场细分(needs-based segmentation): 将整个市场细分为拥有相似需求的市场部分</p>
+<h4 id="why-市场细分">why 市场细分</h4>
+<ul>
+<li>evaluate, compare and select market segments to enter</li>
+<li>target <strong>目标用户</strong> 从而:
+<ul>
+<li>设计产品专门满足目标用户的<strong>特定需求</strong></li>
+<li>给予市场营销团队一个<strong>运营焦点</strong></li>
+</ul>
+</li>
+</ul>
+<h4 id="how-市场细分">how 市场细分</h4>
+<ol>
+<li>identify 识别
+<ul>
+<li>Cluster customers into groups with very similar needs</li>
+<li>Use market research, customer data, key opinion leaders and deep market understanding</li>
+</ul>
+</li>
+<li>profile 基本分析
+<ul>
+<li>qualitative describe</li>
+<li>quantitative size 确定容量</li>
+</ul>
+</li>
+</ol>
+<h5 id="describe-your-segments">describe your segments</h5>
+<ul>
+<li>用户特点</li>
+<li>有什么需求</li>
+<li>在当下是如何解决的</li>
+<li>市场区域(亚洲/欧洲)</li>
+<li>购买渠道(线上/专门渠道/...)</li>
+<li>用户实例</li>
+<li>市场的主要趋势和未来趋势</li>
+</ul>
+<figure data-type="image" tabindex="3"><img src="https://vegeDoggy.github.io/post-images/1610155582743.png" alt="" loading="lazy"></figure>
 <h3 id="212">2.1.2</h3>
 ]]></content>
     </entry>
