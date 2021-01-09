@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vegeDoggy.github.io</id>
     <title>vegeDoggy的小屋</title>
-    <updated>2021-01-09T14:54:18.050Z</updated>
+    <updated>2021-01-09T15:12:59.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://vegeDoggy.github.io"/>
     <link rel="self" href="https://vegeDoggy.github.io/atom.xml"/>
@@ -15,7 +15,7 @@
         <id>https://vegeDoggy.github.io/post/product-management-101/</id>
         <link href="https://vegeDoggy.github.io/post/product-management-101/">
         </link>
-        <updated>2021-01-06T17:39:11.000Z</updated>
+        <updated>2021-01-04T17:39:11.000Z</updated>
         <content type="html"><![CDATA[<h1 id="1-introduction">1. Introduction</h1>
 <h2 id="11-intro">1.1 Intro</h2>
 <h3 id="111-pms-goal">1.1.1 PM‘s Goal</h3>
@@ -117,7 +117,13 @@
 <li>专注</li>
 <li>包容</li>
 </ul>
-<figure data-type="image" tabindex="6"><img src="https://vegeDoggy.github.io/post-images/1610203962687.png" alt="2.2.4-1" loading="lazy"></figure>
+<figure data-type="image" tabindex="6"><img src="https://vegeDoggy.github.io/post-images/1610205145337.png" alt="2.2.4-1" loading="lazy"></figure>
+<h4 id="问题类型与采访技巧">问题类型与采访技巧</h4>
+<figure data-type="image" tabindex="7"><img src="https://vegeDoggy.github.io/post-images/1610205071461.png" alt="2.2.4-2" loading="lazy"></figure>
+<h4 id="7-steps">7 steps</h4>
+<figure data-type="image" tabindex="8"><img src="https://vegeDoggy.github.io/post-images/1610204849643.png" alt="2.2.4-3" loading="lazy"></figure>
+<h4 id="tips">tips</h4>
+<figure data-type="image" tabindex="9"><img src="https://vegeDoggy.github.io/post-images/1610204869145.png" alt="2.2.4-4" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
