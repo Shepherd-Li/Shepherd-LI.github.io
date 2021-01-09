@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vegeDoggy.github.io</id>
     <title>vegeDoggy的小屋</title>
-    <updated>2021-01-09T00:04:02.065Z</updated>
+    <updated>2021-01-09T00:33:57.852Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://vegeDoggy.github.io"/>
     <link rel="self" href="https://vegeDoggy.github.io/atom.xml"/>
@@ -10,6 +10,42 @@
     <logo>https://vegeDoggy.github.io/images/avatar.png</logo>
     <icon>https://vegeDoggy.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, vegeDoggy的小屋</rights>
+    <entry>
+        <title type="html"><![CDATA[Product Management 101]]></title>
+        <id>https://vegeDoggy.github.io/post/product-management-101/</id>
+        <link href="https://vegeDoggy.github.io/post/product-management-101/">
+        </link>
+        <updated>2021-01-06T01:39:11.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="1-introduction">1. Introduction</h1>
+<h2 id="11-概述">1.1 概述</h2>
+<h3 id="111-产品经理的目标whatwhy">1.1.1 产品经理的目标(what&amp;why)</h3>
+<p>产品经理的工作是为客户提供, 难以复制(护城河)的提高收益(利润)的方法</p>
+<h3 id="12-产品经理的工作内容how">1.2 产品经理的工作内容(how)</h3>
+<figure data-type="image" tabindex="1"><img src="https://vegeDoggy.github.io/post-images/1610148917778.png" alt="1.2.1" loading="lazy"></figure>
+<ul>
+<li>市场信息</li>
+<li>战略制定</li>
+<li>产品开发</li>
+<li>生命周期管理(产品营销)</li>
+</ul>
+<p>每部分的工作内容都不是单打独斗, 而是协作, 市场信息部分与市场团队协作, 战略制定与企业战略执行协作, 开发与技术团队协作, 生命周期管理与市场营销运营协作</p>
+<figure data-type="image" tabindex="2"><img src="https://vegeDoggy.github.io/post-images/1610149449757.png" alt="1.2.2" loading="lazy"></figure>
+<h2 id="12-产品经理的战略角色">1.2 产品经理的战略角色</h2>
+<p>产品经理想要发挥作用的重点是, 在战略与战术上保持平衡, 具体体现在之前的1.2.2图上, 就是说产品经理的工作虽然与其他团队协作, 但是仍然要有边界感</p>
+<p>协作 + 边界感 = 平衡</p>
+<h1 id="2-市场信息">2. 市场信息</h1>
+<p>主要分为三个部分</p>
+<ul>
+<li>市场分析</li>
+<li>用户分析</li>
+<li>竞品分析</li>
+</ul>
+<h2 id="21-市场分析">2.1 市场分析</h2>
+<h3 id="211-市场分析与市场细分的重要性why">2.1.1 市场分析与市场细分的重要性(why)</h3>
+<p>需求导向的市场细分(needs-based segmentation): 使得整个市场细分为, 拥有相似需求的</p>
+<h3 id="212">2.1.2</h3>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俞军 《产品方法论》 读书笔记]]></title>
         <id>https://vegeDoggy.github.io/post/yu-jun-lesslesschan-pin-fang-fa-lun-greatergreater-du-shu-bi-ji/</id>
