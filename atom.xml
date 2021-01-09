@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vegeDoggy.github.io</id>
     <title>vegeDoggy的小屋</title>
-    <updated>2021-01-09T14:41:16.825Z</updated>
+    <updated>2021-01-09T14:54:18.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://vegeDoggy.github.io"/>
     <link rel="self" href="https://vegeDoggy.github.io/atom.xml"/>
@@ -15,7 +15,7 @@
         <id>https://vegeDoggy.github.io/post/product-management-101/</id>
         <link href="https://vegeDoggy.github.io/post/product-management-101/">
         </link>
-        <updated>2021-01-07T01:39:11.000Z</updated>
+        <updated>2021-01-06T17:39:11.000Z</updated>
         <content type="html"><![CDATA[<h1 id="1-introduction">1. Introduction</h1>
 <h2 id="11-intro">1.1 Intro</h2>
 <h3 id="111-pms-goal">1.1.1 PM‘s Goal</h3>
@@ -104,6 +104,20 @@
 <p><span style="border-bottom:2px solid #ffd602fa;">个人层面</span>: 对用户需求的理解, 是PM的基础能力.</p>
 <figure data-type="image" tabindex="4"><img src="https://vegeDoggy.github.io/post-images/1610201295835.png" alt="2.2.2-1" loading="lazy"></figure>
 <h3 id="223-how-ca">2.2.3 How CA</h3>
+<figure data-type="image" tabindex="5"><img src="https://vegeDoggy.github.io/post-images/1610203430042.png" alt="2.2.3-1" loading="lazy"></figure>
+<p>两个维度: 用户有什么需求 用户为什么有这样的需求<br>
+两个渠道: firsthand信息 secondhand信息</p>
+<p>其中较为重要的是用户采访</p>
+<h3 id="224-customer-interviews">2.2.4 Customer Interviews</h3>
+<p>优秀的产品经理快速且高频的采访用户, 这是最简单且最直接理解用户需求的方法</p>
+<h4 id="4-keys">4 keys</h4>
+<ul>
+<li>同理</li>
+<li>准备</li>
+<li>专注</li>
+<li>包容</li>
+</ul>
+<figure data-type="image" tabindex="6"><img src="https://vegeDoggy.github.io/post-images/1610203962687.png" alt="2.2.4-1" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
