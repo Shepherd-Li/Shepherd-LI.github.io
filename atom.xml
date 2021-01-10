@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vegeDoggy.github.io</id>
     <title>vegeDoggy的小屋</title>
-    <updated>2021-01-10T07:14:45.595Z</updated>
+    <updated>2021-01-10T07:25:52.203Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://vegeDoggy.github.io"/>
     <link rel="self" href="https://vegeDoggy.github.io/atom.xml"/>
@@ -15,7 +15,7 @@
         <id>https://vegeDoggy.github.io/post/product-management-101/</id>
         <link href="https://vegeDoggy.github.io/post/product-management-101/">
         </link>
-        <updated>2021-01-05T01:39:11.000Z</updated>
+        <updated>2021-01-08T01:39:11.000Z</updated>
         <content type="html"><![CDATA[<h1 id="1-introduction">1. Introduction</h1>
 <h2 id="11-intro">1.1 Intro</h2>
 <h3 id="111-pms-goal">1.1.1 PM‘s Goal</h3>
@@ -75,7 +75,7 @@
 </ul>
 </li>
 </ul>
-<h4 id="describe">Describe</h4>
+<h4 id="describe"><strong>·</strong> Describe</h4>
 <p><code>describe</code> segemnts</p>
 <ul>
 <li>用户特点</li>
@@ -87,7 +87,7 @@
 <li>市场的主要趋势和未来趋势</li>
 </ul>
 <figure data-type="image" tabindex="3"><img src="https://vegeDoggy.github.io/post-images/1610155582743.png" alt="" loading="lazy"></figure>
-<h4 id="size">Size</h4>
+<h4 id="size"><strong>·</strong> Size</h4>
 <p><code>size</code> segemnts</p>
 <ul>
 <li>尽可能的寻找数据</li>
@@ -110,7 +110,7 @@
 <p>其中较为重要的是用户采访</p>
 <h3 id="224-customer-interviews">2.2.4 Customer Interviews</h3>
 <p>优秀的产品经理快速且高频的采访用户, 这是最简单且最直接理解用户需求的方法</p>
-<h4 id="4-keys">4 keys</h4>
+<h4 id="4-keys"><strong>·</strong> 4 keys</h4>
 <ul>
 <li>同理</li>
 <li>准备</li>
@@ -118,17 +118,17 @@
 <li>包容</li>
 </ul>
 <figure data-type="image" tabindex="6"><img src="https://vegeDoggy.github.io/post-images/1610205145337.png" alt="2.2.4-1" loading="lazy"></figure>
-<h4 id="问题类型与采访技巧">问题类型与采访技巧</h4>
+<h4 id="问题类型与采访技巧"><strong>·</strong> 问题类型与采访技巧</h4>
 <figure data-type="image" tabindex="7"><img src="https://vegeDoggy.github.io/post-images/1610205071461.png" alt="2.2.4-2" loading="lazy"></figure>
-<h4 id="7-steps">7 steps</h4>
+<h4 id="7-steps"><strong>·</strong> 7 steps</h4>
 <figure data-type="image" tabindex="8"><img src="https://vegeDoggy.github.io/post-images/1610204849643.png" alt="2.2.4-3" loading="lazy"></figure>
-<h4 id="tips">tips</h4>
+<h4 id="tips"><strong>·</strong> tips</h4>
 <figure data-type="image" tabindex="9"><img src="https://vegeDoggy.github.io/post-images/1610204869145.png" alt="2.2.4-4" loading="lazy"></figure>
 <h3 id="225-analyzing-customer-needs">2.2.5 Analyzing Customer-needs</h3>
 <p>用户想要解决问题, 或者抓住机遇, 他们正在满足自己的需求</p>
 <p>分析用户需求之后, 需要<code>分类 categorize</code>和按照<code>优先级排序 prioritize</code></p>
 <p><span style="border-bottom:2px solid #ffd602fa;">不是所有需求都一样重要</span>, 用户对于他们的需求有不同优先级和意义, 作为PM你需要理解这一点.</p>
-<h4 id="kano-model">Kano Model</h4>
+<h4 id="kano-model"><strong>·</strong> Kano Model</h4>
 <p>Noriaki Kano and team in 1984 to:</p>
 <ul>
 <li>分类和排序用户需求</li>
@@ -161,7 +161,7 @@
 <h3 id="233-直接竞品-direct-competitors">2.3.3 直接竞品 direct competitors</h3>
 <p>4 stpes</p>
 <figure data-type="image" tabindex="12"><img src="https://vegeDoggy.github.io/post-images/1610259586197.png" alt="2.3.3-1" loading="lazy"></figure>
-<h4 id="市场表现-market-importance">市场表现 market importance</h4>
+<h4 id="市场表现-market-importance"><strong>·</strong> 市场表现 market importance</h4>
 <p>评估竞品现在和未来的重要性</p>
 <p>两个阶段:</p>
 <ul>
@@ -181,7 +181,7 @@
 <li>随着时间不断修正<br>
 <img src="https://vegeDoggy.github.io/post-images/1610262756133.png" alt="2.3.3-2" loading="lazy"></li>
 </ul>
-<h4 id="市场战略与策略-strategy-and-market-approach">市场战略与策略 strategy and market approach</h4>
+<h4 id="市场战略与策略-strategy-and-market-approach"><strong>·</strong> 市场战略与策略 strategy and market approach</h4>
 <p>评估竞品现在和未来的市场策略</p>
 <p>指导:</p>
 <ul>
@@ -195,7 +195,7 @@
 <li>不断修正</li>
 </ul>
 <figure data-type="image" tabindex="13"><img src="https://vegeDoggy.github.io/post-images/1610262784127.png" alt="2.3.3-3" loading="lazy"></figure>
-<h4 id="市场定位-competitive-positioning">市场定位 competitive positioning</h4>
+<h4 id="市场定位-competitive-positioning"><strong>·</strong> 市场定位 competitive positioning</h4>
 <p>我们与竞品的差异在哪里, 定位我们的产品与竞品</p>
 <p>指导:</p>
 <ul>
@@ -203,7 +203,7 @@
 <li>选择对用户重要的两个维度进行制图<br>
 <img src="https://vegeDoggy.github.io/post-images/1610262801089.png" alt="2.3.3-4" loading="lazy"></li>
 </ul>
-<h4 id="竞品表现-product-performance">竞品表现 product performance</h4>
+<h4 id="竞品表现-product-performance"><strong>·</strong> 竞品表现 product performance</h4>
 <p>比较竞品的优点和特点 benifits&amp;features</p>
 <p>指导:</p>
 <ul>
