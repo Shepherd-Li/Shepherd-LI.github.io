@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vegeDoggy.github.io</id>
     <title>vegeDoggy的小屋</title>
-    <updated>2021-01-10T08:53:57.337Z</updated>
+    <updated>2021-01-10T17:57:56.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://vegeDoggy.github.io"/>
     <link rel="self" href="https://vegeDoggy.github.io/atom.xml"/>
@@ -11,11 +11,21 @@
     <icon>https://vegeDoggy.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, vegeDoggy的小屋</rights>
     <entry>
-        <title type="html"><![CDATA[Product Management 101]]></title>
+        <title type="html"><![CDATA[Product Management 101 Part II]]></title>
+        <id>https://vegeDoggy.github.io/post/product-management-101-part-ii/</id>
+        <link href="https://vegeDoggy.github.io/post/product-management-101-part-ii/">
+        </link>
+        <updated>2021-01-10T01:56:53.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="4-产品开发">4. 产品开发</h1>
+<h1 id="5-生命周期管理产品运营">5. 生命周期管理(产品运营)</h1>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Product Management 101 Part I]]></title>
         <id>https://vegeDoggy.github.io/post/product-management-101/</id>
         <link href="https://vegeDoggy.github.io/post/product-management-101/">
         </link>
-        <updated>2021-01-08T01:39:11.000Z</updated>
+        <updated>2021-01-06T17:39:11.000Z</updated>
         <content type="html"><![CDATA[<h1 id="1-introduction">1. Introduction</h1>
 <h2 id="11-intro">1.1 Intro</h2>
 <h3 id="111-goal-of-pm">1.1.1 Goal of PM</h3>
@@ -160,13 +170,14 @@
 <h3 id="232-why">2.3.2 why</h3>
 <p>why do competitive analysis</p>
 <ul>
-<li>预感市场变化</li>
+<li>预测市场变化</li>
 <li>从竞品中学习 成功 与 失败</li>
-<li>寻求反制竞品策略</li>
+<li>寻求反击 策略</li>
 <li>完善定价</li>
 <li>发展难以复制的产品优势</li>
 </ul>
 <h3 id="233-how-分析直接竞品">2.3.3 how 分析直接竞品</h3>
+<p>选择主要竞品而不是全部</p>
 <p>4 stpes</p>
 <figure data-type="image" tabindex="12"><img src="https://vegeDoggy.github.io/post-images/1610259586197.png" alt="2.3.3-1" loading="lazy"></figure>
 <h4 id="市场表现"><strong>·</strong> 市场表现</h4>
@@ -211,8 +222,13 @@
 <p>指导:</p>
 <ul>
 <li>使用<span style="border-bottom:2px solid #ffd602fa;">定位图</span>进行直观展示</li>
-<li>选择对用户重要的两个<span style="border-bottom:2px solid #ffd602fa;">维度</span>进行制图<br>
+<li>选择对用户重要的两个<span style="border-bottom:2px solid #ffd602fa;">维度领域</span>进行制图
+<ul>
+<li>要点1: 对用户来说真正需要的领域</li>
+<li>要点2: 可以用来把我们和竞品区分的领域<br>
 <img src="https://vegeDoggy.github.io/post-images/1610262801089.png" alt="2.3.3-4" loading="lazy"></li>
+</ul>
+</li>
 </ul>
 <h4 id="竞品特点"><strong>·</strong> 竞品特点</h4>
 <p>Product Comparison</p>
@@ -233,6 +249,14 @@
 <figure data-type="image" tabindex="14"><img src="https://vegeDoggy.github.io/post-images/1610262816627.png" alt="2.3.3-5" loading="lazy"></figure>
 <h3 id="234-how-分析颠覆性技术">2.3.4 how 分析颠覆性技术</h3>
 <p>Disruptive Technologies</p>
+<p>颠覆性的技术会一直出现, 即使是良好管理, 高利润的公司也有可能失去他们的优势</p>
+<p>大型的公司往往更不愿意接受颠覆性的技术, 原因有</p>
+<ul>
+<li>不愿意面对困难的文化</li>
+<li>迷失在每日的用户需求中</li>
+<li>因高利润而自大放松警惕</li>
+</ul>
+<p>创业公司却往往没有这样的负担</p>
 <h4 id="开放包容"><strong>·</strong> 开放包容</h4>
 <p>作为PM</p>
 <ul>
@@ -244,7 +268,7 @@
 </li>
 <li>竞品分析中的重点</li>
 </ul>
-<h3 id="235-竞品监控">2.3.5 竞品监控</h3>
+<h3 id="235-竞争监控">2.3.5 竞争监控</h3>
 <p>Competitive Monitoring</p>
 <ul>
 <li><code>持续监控 continuous</code>
@@ -253,7 +277,7 @@
 <li>一直</li>
 </ul>
 </li>
-<li><code>周期监控 periodic</code>
+<li><code>周期性监控 periodic</code>
 <ul>
 <li>关键的竞品, 市场趋势, 颠覆性技术</li>
 <li>3-6 月</li>
@@ -265,6 +289,95 @@
 <li>按需</li>
 </ul>
 </li>
+</ul>
+<h1 id="3-战略制定">3. 战略制定</h1>
+<h2 id="31-whats-产品战略">3.1 what‘s 产品战略</h2>
+<p>产品战略应当有产品经理主导, 与其他部门协作</p>
+<p><code>产品战略 product strategy</code>的定义</p>
+<ul>
+<li>一个整体的完成目标的计划</li>
+<li>可以用来指导所有的工作
+<ul>
+<li>includes roadmaps, product development priorities, finding profitable growth opportunities</li>
+</ul>
+</li>
+<li>融入公司整体战略</li>
+</ul>
+<h2 id="32-why">3.2 why</h2>
+<p>为什么战略很重要</p>
+<h2 id="33-how">3.3 how</h2>
+<p>如何制定产品的战略</p>
+<p>7 steps</p>
+<h3 id="331-组建一个复合型队伍">3.3.1 组建一个复合型队伍</h3>
+<ul>
+<li>战略工作需要讨论, 分析和批判性思考</li>
+<li>团队协作,众人拾柴火焰高</li>
+</ul>
+<h3 id="332-明确公司战略方向">3.3.2 明确公司战略方向</h3>
+<ul>
+<li>公司的任务, 目标, 战略</li>
+<li>有时候不是很清晰, 尽力去做</li>
+<li>你的战略一定要符合公司整体的战略方向</li>
+</ul>
+<h3 id="333-查看市场情报">3.3.3 查看市场情报</h3>
+<ul>
+<li>市场细分与度量</li>
+<li>用户需求</li>
+<li>竞品分析</li>
+<li>plus:
+<ul>
+<li>技术评估</li>
+<li>监管评估</li>
+</ul>
+</li>
+<li>寻找市场趋势和新的机会</li>
+</ul>
+<h3 id="334-制定产品展望与目标">3.3.4 制定产品展望与目标</h3>
+<ul>
+<li><code>产品展望 product vision</code>: 如果你的产品成功世界将会变得如何</li>
+<li><code>产品目标 product objectives</code>: 明确, 可测的目标</li>
+</ul>
+<h3 id="335-分析-思考和讨论战略需求">3.3.5 分析, 思考和讨论战略需求</h3>
+<ul>
+<li>战略中最难的部分</li>
+<li><code>strategy diamonds</code>:<br>
+<img src="https://vegeDoggy.github.io/post-images/1610296738514.png" alt="3.3.5-1" loading="lazy"></li>
+</ul>
+<figure data-type="image" tabindex="15"><img src="https://vegeDoggy.github.io/post-images/1610296754814.png" alt="3.3.5-2" loading="lazy"></figure>
+<h3 id="336-分享与修改">3.3.6 分享与修改</h3>
+<p>需要向公司和团队分享战略的内容, 并根据反馈来修改</p>
+<ul>
+<li>大纲
+<ul>
+<li>市场背景
+<ul>
+<li>Market size, customer needs, competitive situation, technology and regulatory trends</li>
+</ul>
+</li>
+<li>战略方向
+<ul>
+<li>Product vision and objectives</li>
+<li>Emerging opportunities and proposed direction</li>
+<li>Customer value proposition &amp; competitive advantage</li>
+</ul>
+</li>
+<li>行动与时间安排(ddl)
+<ul>
+<li>Product roadmap, development path</li>
+</ul>
+</li>
+<li>财务预测
+<ul>
+<li>Investment level, revenue, profit</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h3 id="337-实践与迭代">3.3.7 实践与迭代</h3>
+<ul>
+<li>Drive your roadmap, product development and growth plans based on your strategy</li>
+<li><span style="border-bottom:2px solid #ffd602fa;">Revise and iterate, based off market feedback</span></li>
 </ul>
 ]]></content>
     </entry>
