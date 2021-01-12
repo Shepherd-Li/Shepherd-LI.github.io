@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vegeDoggy.github.io</id>
-    <title>vegeDoggy | Product-hacker</title>
-    <updated>2021-01-12T18:15:34.381Z</updated>
+    <title>vegeDoggy | A Product Hacker</title>
+    <updated>2021-01-12T18:22:48.497Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://vegeDoggy.github.io"/>
     <link rel="self" href="https://vegeDoggy.github.io/atom.xml"/>
-    <subtitle>关于产品, 关于这个世界</subtitle>
+    <subtitle>It takes backbone to lead the life you want.</subtitle>
     <logo>https://vegeDoggy.github.io/images/avatar.png</logo>
     <icon>https://vegeDoggy.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, vegeDoggy | Product-hacker</rights>
+    <rights>All rights reserved 2021, vegeDoggy | A Product Hacker</rights>
     <entry>
         <title type="html"><![CDATA[Product Management 101 Part II]]></title>
         <id>https://vegeDoggy.github.io/post/product-management-101-part-ii/</id>
