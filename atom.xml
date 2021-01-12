@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vegeDoggy.github.io</id>
-    <title>vegeDoggy的小屋</title>
-    <updated>2021-01-11T14:33:54.047Z</updated>
+    <title>vegeDoggy | Product-hacker</title>
+    <updated>2021-01-12T18:15:34.381Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://vegeDoggy.github.io"/>
     <link rel="self" href="https://vegeDoggy.github.io/atom.xml"/>
-    <subtitle>一些微不足道的碎碎念</subtitle>
+    <subtitle>关于产品, 关于这个世界</subtitle>
     <logo>https://vegeDoggy.github.io/images/avatar.png</logo>
     <icon>https://vegeDoggy.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, vegeDoggy的小屋</rights>
+    <rights>All rights reserved 2021, vegeDoggy | Product-hacker</rights>
     <entry>
         <title type="html"><![CDATA[Product Management 101 Part II]]></title>
         <id>https://vegeDoggy.github.io/post/product-management-101-part-ii/</id>
@@ -17,7 +17,34 @@
         </link>
         <updated>2021-01-10T01:56:53.000Z</updated>
         <content type="html"><![CDATA[<h1 id="4-产品开发">4. 产品开发</h1>
+<h2 id="41-优先级划分与路线">4.1 优先级划分与路线</h2>
+<p>prioritization and roadmapping</p>
+<h3 id="411-优先级的重要性">4.1.1 优先级的重要性</h3>
+<h3 id="412-okrs">4.1.2 OKRs</h3>
+<h3 id="413-development-buckets">4.1.3 development buckets</h3>
+<h3 id="414-roadmapping">4.1.4 roadmapping</h3>
+<h2 id="42-探索与交付">4.2 探索与交付</h2>
+<p>Discovery &amp; delivery</p>
+<h3 id="421-ideas">4.2.1 ideas</h3>
+<h3 id="422-discovery">4.2.2 discovery</h3>
+<h3 id="423-delivery">4.2.3 delivery</h3>
+<h3 id="424-optimization">4.2.4 optimization</h3>
+<h2 id="43-发布">4.3 发布</h2>
+<p>Launch</p>
+<h3 id="431-有影响力的发布的重要性">4.3.1 有影响力的发布的重要性</h3>
+<h3 id="432-优先级">4.3.2 优先级</h3>
+<h3 id="433-计划安排">4.3.3 计划安排</h3>
 <h1 id="5-生命周期管理产品运营">5. 生命周期管理(产品运营)</h1>
+<h2 id="51-定位与沟通-poisitining-and-communication">5.1 定位与沟通 poisitining and communication</h2>
+<h3 id="511-价值主张-value-proposition">5.1.1 价值主张 value proposition</h3>
+<h3 id="512-benefit-trees">5.1.2 Benefit trees</h3>
+<h3 id="513-buyers-journey营销基础理论">5.1.3 Buyer’s Journey(营销基础理论)</h3>
+<h2 id="52-定价-pricing">5.2 定价 pricing</h2>
+<h2 id="53-销售支持-sales-support">5.3 销售支持 sales support</h2>
+<h2 id="54-销售渠道-sales-channels">5.4 销售渠道 sales channels</h2>
+<h2 id="55-产品支持-prodcut-support">5.5 产品支持 prodcut support</h2>
+<h2 id="56-用户增长-finding-growth">5.6 用户增长 finding growth</h2>
+<h2 id="57-淘汰-obsolescence">5.7 淘汰 obsolescence</h2>
 ]]></content>
     </entry>
     <entry>
@@ -33,12 +60,18 @@
 <h3 id="112-span-styleborder-bottom2px-solid-e91e63work-of-pmspan">1.1.2 <span style="border-bottom:2px solid #e91e63;">Work of PM</span></h3>
 <figure data-type="image" tabindex="1"><img src="https://vegeDoggy.github.io/post-images/1610148917778.png" alt="1.1.2-1" loading="lazy"></figure>
 <ul>
-<li><code>市场信息 Market Intelligence</code></li>
+<li><code>市场情报 Market Intelligence</code></li>
 <li><code>战略制定 Strategy</code></li>
 <li><code>产品开发 Product Development</code></li>
 <li><code>生命周期管理(产品运营) Lifecycle Management</code></li>
 </ul>
 <p>每部分的工作内容都不是单打独斗, 而是<code>协作</code>, <span style="border-bottom:2px solid #ffd602fa;">市场信息部分与市场团队协作, 战略制定与企业战略执行协作, 开发与技术团队协作, 生命周期管理与市场运营团队协作.</span></p>
+<p>市场情报 + 战略制定 是产品初期<br>
+产品开发 + 运营 是产品后期</p>
+<p>市场情报: 市场分析 -&gt; 用户分析 -&gt; 竞品分析 -&gt;<br>
+战略制定: 复盘市场情报 -&gt; 产品蓝图与目标 -&gt; 策略制定 -&gt;<br>
+产品开发: 优先级与roadmapping -&gt; discovery&amp;deliver -&gt; launch -&gt;<br>
+生命周期管理(运营): 定位与沟通 -&gt; 寻找增长 -&gt; 淘汰 -&gt; 迭代</p>
 <figure data-type="image" tabindex="2"><img src="https://vegeDoggy.github.io/post-images/1610149449757.png" alt="1.1.2-2" loading="lazy"></figure>
 <h3 id="113-strategic-role-of-pm">1.1.3 Strategic Role of PM</h3>
 <p>让产品<code>Go Big</code></p>
@@ -290,7 +323,7 @@
 </ul>
 </li>
 </ul>
-<h1 id="3-战略制定">3. 战略制定</h1>
+<h1 id="3-战略">3. 战略</h1>
 <h2 id="31-whats-产品战略">3.1 what‘s 产品战略</h2>
 <p>产品战略应当有产品经理主导, 与其他部门协作</p>
 <p><code>产品战略 product strategy</code>的定义</p>
@@ -332,10 +365,10 @@
 </li>
 <li>寻找市场趋势和新的机会</li>
 </ul>
-<h3 id="334-制定产品展望与目标">3.3.4 制定产品展望与目标</h3>
+<h3 id="334-制定产品蓝图与目标">3.3.4 制定产品蓝图与目标</h3>
 <ul>
-<li><code>产品展望 product vision</code>: 如果你的产品成功世界将会变得如何</li>
-<li><code>产品目标 product objectives</code>: 明确, 可测的目标</li>
+<li><code>产品蓝图 product vision</code>: 如果你的产品成功世界将会变得如何</li>
+<li><code>产品目标 product objectives</code>: 明确, 可测的目标, 成功指标</li>
 </ul>
 <h3 id="335-分析-思考和讨论战略需求">3.3.5 分析, 思考和讨论战略需求</h3>
 <ul>
